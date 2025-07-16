@@ -1,25 +1,25 @@
 
-🤝 Cómo contribuir
+## 🤝 Cómo contribuir
 
 ¡Gracias por tu interés en contribuir a este proyecto! Aquí tienes algunas pautas básicas para empezar:
 
-🧰 Qué puedes aportar
+## 🧰 Qué puedes aportar
 
-Mejoras visuales del PDF (colores, formato, tipografía)
+#### Mejoras visuales del PDF (colores, formato, tipografía)
 
-Nuevos idiomas (traducir los códigos HTTP)
+#### Nuevos idiomas (traducir los códigos HTTP)
 
-Correcciones en el script Python
+#### Correcciones en el script Python
 
-Documentación (mejoras en README, ejemplos de uso)
+#### Documentación (mejoras en README, ejemplos de uso)
 
 
-✅ Requisitos mínimos
+## ✅ Requisitos mínimos
 
-Código limpio y legible
+#### Código limpio y legible
 
-Comentarios claros si agregas lógica compleja
+#### Comentarios claros si agregas lógica compleja
 
-No cambiar nombres de archivos base sin razón justificada
+#### No cambiar nombres de archivos base sin razón justificada
 
-¡Toda contribución será revisada con gratitud!
+#### ¡Toda contribución será revisada con gratitud!
