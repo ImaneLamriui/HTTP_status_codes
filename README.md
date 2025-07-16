@@ -10,10 +10,4 @@ Incluye:
   <img src="HTTP_status_codes_image.png">
 
 
----
 
-## 🛠 Cómo usarlo
-
-1. Asegúrate de tener `fpdf` instalado:
-
-Comando de instalación: pip install fpdf
