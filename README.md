@@ -5,8 +5,10 @@ Este proyecto genera automáticamente un archivo PDF educativo con los códigos 
 
 Incluye:
 - Más de 40 códigos organizados por categoría (1xx, 2xx, 3xx, 4xx, 5xx)
-- Descripciones breves en español
-- Colores por grupo de código para facilitar la lectura
+- Descripciones breves
+
+  <img src="HTTP_status_codes_image.png">
+
 
 ---
 
@@ -14,5 +16,4 @@ Incluye:
 
 1. Asegúrate de tener `fpdf` instalado:
 
-```bash
-pip install fpdf
+Comando de instalación: pip install fpdf
